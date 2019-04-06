@@ -1,2 +1,6 @@
 # learn-git-demo2
-for test1:create a new branch dev -- user in master branch
+<<<<<<< HEAD
+for test1:create a new branch dev2
+=======
+for test1:create a new branch dev2
+>>>>>>> dev2
